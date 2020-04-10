@@ -1,0 +1,15 @@
+.center {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-top: 10rem;
+}
+
+.profileImage {
+  border-radius: 100%;
+}
+
+.title {
+  text-align: center;
+  padding: 1rem 0;
+}
