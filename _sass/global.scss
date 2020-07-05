@@ -5,11 +5,11 @@ $bodyColor: #000000;
 $bodyFont: "Roboto Mono", monospace;
 
 html {
-  min-height: 100%;
+  height: 100%;
 }
 
 body {
-  height: 100%;
+  min-height: 100%;
   background: $backgroundColor;
   color: $bodyColor;
   font-family: $bodyFont;
